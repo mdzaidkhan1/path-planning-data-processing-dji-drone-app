@@ -13,7 +13,9 @@ To run the code, KIVYMD as well as any other dependencies not found when parsing
 After that the app can be started by running the program. 
 
 **UI**
-Upon start up a user is met with the home screen as well as a navigation rail to the right. The user can use the rail to seamlessly navigate through the different screens of the app.
+Upon start up a user is met with the home screen as well as a navigation rail to the left. The user can use the rail to seamlessly navigate through the different screens of the app.
+**NOTE: Upon clicking one of the bottom three icons, text will appear below the icon. To navigate to that screen, the user must click on the text!**
+
 The home screen is currently blank, asides from a welcome home button.
 
 The user can navigate to the 'Path Planning' screen icon which is the first icon on the bottom group of icons on the navigation rail.
