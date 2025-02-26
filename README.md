@@ -28,6 +28,6 @@ The user can navigate to the 'Post Processing' screen icon which is the third ic
 Here the user can choose antenna data to represent on a log graph, to determine data trends from areas of interest.
 The user can also choose the dji drone log data to visually represent where the drone actually flew during the flight on the map to the right.
 (In future versions, we were hoping to have the flight data and antenna data as part of one file, right now they are two).
-I have not included any flight logs for privacy reasons for our development, but I will include a file that can be used to test the plotting.
+I have not included any flight logs for privacy reasons for our development, but the file S11_Measurement12_52_56.147944.csv can be used to test the plotting of the data.
 
 **There are photos of the different screens of interest in the app in the APP Images folder**
